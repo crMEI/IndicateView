@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicateView">
+        <attr name="indicate_dotSize" format="integer"></attr>
+        <attr name="indicate_blankSize" format="integer"></attr>
+        <attr name="idle_color" format="integer"></attr>
+        <attr name="select_color" format="integer"></attr>
+
+    </declare-styleable>
+
+</resources>
